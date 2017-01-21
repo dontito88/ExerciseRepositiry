@@ -1,1 +1,2 @@
 It's just a test!
+There're some changes in the file to se how the new branch works!
